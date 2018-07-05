@@ -357,7 +357,7 @@ exports[`PadSplit render normally 1`] = `
     title="Welcome to Apollo Launchpad!"
   >
     <p>
-      This is a tool you can use build, deploy, and share a simple GraphQL API right from your browser. We think it's a great way to experiment with GraphQL and share examples of different patterns.
+      This is a tool you can use to build, deploy, and share a simple GraphQL API right from your browser. We think it's a great way to experiment with GraphQL and share examples of different patterns.
     </p>
     <p>
       Visit the
